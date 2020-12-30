@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/speed-typing-game/static/css/main.ff7a0eb3.chunk.css",
+    "main.js": "/speed-typing-game/static/js/main.ce4d2e34.chunk.js",
+    "main.js.map": "/speed-typing-game/static/js/main.ce4d2e34.chunk.js.map",
+    "runtime-main.js": "/speed-typing-game/static/js/runtime-main.a2b749a8.js",
+    "runtime-main.js.map": "/speed-typing-game/static/js/runtime-main.a2b749a8.js.map",
+    "static/js/2.dc839418.chunk.js": "/speed-typing-game/static/js/2.dc839418.chunk.js",
+    "static/js/2.dc839418.chunk.js.map": "/speed-typing-game/static/js/2.dc839418.chunk.js.map",
+    "index.html": "/speed-typing-game/index.html",
+    "static/css/main.ff7a0eb3.chunk.css.map": "/speed-typing-game/static/css/main.ff7a0eb3.chunk.css.map",
+    "static/js/2.dc839418.chunk.js.LICENSE.txt": "/speed-typing-game/static/js/2.dc839418.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2b749a8.js",
+    "static/js/2.dc839418.chunk.js",
+    "static/css/main.ff7a0eb3.chunk.css",
+    "static/js/main.ce4d2e34.chunk.js"
+  ]
+}
